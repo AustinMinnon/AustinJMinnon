@@ -2,7 +2,9 @@
 ### Exercise for Epicodus 1.8.2016
 #### By Austin Minnon
 ###Setup
-#### *Clone this repository* *Open project folder* *Run portfolio.html*
+*_Clone this repository_ 
+*_Open project folder_ 
+*_Run portfolio.html_
 ### Technologies Used:
  *_HTML_ 
  *_CSS_ 
